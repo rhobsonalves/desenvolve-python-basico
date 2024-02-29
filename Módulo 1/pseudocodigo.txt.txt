@@ -1,0 +1,9 @@
+Pseudocódigo- Tabuada do 9
+
+1- Inicio;
+2- Leia X;
+3- y= x-1;
+4- z= 10-x;
+5- n= yz;
+6- print n;
+7- Fim

@@ -1,0 +1,11 @@
+Tabuada do 9- Dissertativa
+
+1- Leia e armazene o número pelo qual você deseja multiplicar por 9;
+
+2- Pegue o número que você recebeu, subtraia 1 e armazene o resultado;
+
+3- Faça a subtração de 10 menos o primeiro número armazenado e armazene o resultado;
+
+4- Junte os dois resultados armazenados a partir da contas matemáticas e armazene esse número;
+
+5- Mostre o resultado.
